@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    margin: 5%;
+}
+
+h3 {
+    color: darkgrey;
+    padding-bottom: 10px;
+}
+
+div {
+    padding: 20px 0;
+}
+
+ul {
+    list-style-position: inside;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    margin: 5px 10px;
+}
